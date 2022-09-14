@@ -11,7 +11,7 @@
 </div>
   <br>
 <br>
-<p>Junto a Rooketseat vamos desenvolver um projeto inédito do universo de games e acelerar minha evolução no Front-End. </<p>p>
+<p align="center">Junto a Rooketseat vamos desenvolver um projeto inédito do universo de games e acelerar minha evolução no Front-End. </p>
 <br>
 <br>
 <p>Dos dias 11 a 18 de Setembro, embarcarei nas missões:
@@ -20,12 +20,10 @@
     <li> NLW | Mission Ignite (para quem já é dev)</p></li>
   </ul>
 <br>
-<br>
-Para ver o meu site basta realizar os passos abaixo:
-<br>
+<p> Para ver o meu site basta realizar os passos abaixo: </p>
 <br>
 <ol>
-  <li>Clique em "Code" e "Download Zip";</li>
+ <li>Clique em "Code" e "Download Zip";</li>
  <li><a target="_blank" href="https://www.techtudo.com.br/noticias/2011/02/como-extrair-arquivos-zip-ou-rar.ghtml" > <div>Extraia os arquivos;</div> </a> </li>
  <li>Dentro das pastas "Rooketseat_NLW_Explorer-main" e"Esports" clique em "index.html". </li>
 </ol>
