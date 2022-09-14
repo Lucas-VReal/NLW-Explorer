@@ -11,7 +11,7 @@
 </div>
   <br>
 <br>
-<p align="center">Junto a Rooketseat vamos desenvolver um projeto inédito do universo de games e acelerar minha evolução no Front-End. </p>
+<p align="center" width= 15px >Junto a Rooketseat vamos desenvolver um projeto inédito do universo de games e acelerar minha evolução no Front-End. </p>
 <br>
 <br>
 <p>Dos dias 11 a 18 de Setembro, embarcarei nas missões:
