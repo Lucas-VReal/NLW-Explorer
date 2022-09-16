@@ -5,19 +5,32 @@
 }
 
 header{
-    text-align: center;
+    height: calc(120px + 32px);
+    padding-top: 32px;
 }
 
 
 header div img{
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
-    box-sizing: border-box;
 
+    width: 100%;
+    border-radius: 50%;
+}
+
+header div{
     width: 120px;
-    height: 120px;
+    margin: auto;
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+
     border-radius: 50%;
 
-    padding: 4px 4px 4px 4px;
+    display: flex;
+    padding: 4px;
+
+    transition: transform .3s;
+}
+
+header div:hover{
+    transform: scale(1.1);
 }
 
 body{
@@ -40,7 +53,7 @@ body * {
 main{
     max-width: 580px;
     width: 90%;
-    margin: auto;
+    margin: 32px auto;
 
     /* display: flex;
     flex-direction: column; */
@@ -97,4 +110,59 @@ section ul {
 .channels-list img {
     border-radius: 50%;
     width: 70px;
+    border: 1px solid #443E54;
+}
+
+section ul li {
+    transition: transform .3s;
+}
+
+section ul li:hover{
+    transform: scale(1.1);
+}
+
+/* animation: */
+
+header div {
+    animation: fromTop .1s 0.5s backwards;
+}
+
+@keyframes fromTop {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+main section {
+    animation: fromBottom .7s backwards;
+}
+
+main section:nth-child(2){
+    animation-delay: .1100s;
+}
+
+main section:nth-child(3){
+    animation-delay: .4s;
+}
+
+main section:nth-child(4){
+    animation-delay: .8s;
+}
+
+@keyframes fromBottom {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
