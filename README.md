@@ -20,12 +20,5 @@
     <li> NLW | Mission Ignite (para quem já é dev)</p></li>
   </ul>
 <br>
-<p> Para ver o meu site basta realizar os passos abaixo: </p>
+<p> Para ver o meu site basta acessar o link: https://lucas-vreal.github.io/Rooketseat_NLW_Explorer/index.html</p>
 <br>
-<ol>
- <li>Clique em "Code" e "Download Zip";</li>
- <li><a target="_blank" href="https://www.techtudo.com.br/noticias/2011/02/como-extrair-arquivos-zip-ou-rar.ghtml" > <div>Extraia os arquivos;</div> </a> </li>
- <li>Dentro das pastas "Rooketseat_NLW_Explorer-main" e "Esports" clique em "index.html". </li>
-</ol>
-
-
