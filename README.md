@@ -3,8 +3,11 @@
 <br>
 
 <div align="center">
-<img src="./.github/preview.png" alt="preview do site" width=300px
-href = "https://lucas-vreal.github.io/nlw-esports-explorer/index.html"/>
+<a
+target="_blank"
+href= "https://lucas-vreal.github.io/nlw-esports-explorer/index.html">
+<img src="./.github/preview.png" alt="preview do site" width=300px/>
+</a>
 </div>
 <br>
 <br>
@@ -21,9 +24,6 @@ href = "https://lucas-vreal.github.io/nlw-esports-explorer/index.html"/>
 
 # <div align="center">[Clique aqui para acessar](https://lucas-vreal.github.io/nlw-esports-explorer/index.html)
 <br>
-<br>
-
-<p align="center"> Junto a Rooketseat desenvolvi um projeto do universo de games e acelerar minha evolução no Front-End</p>
 <br>
 <p>Dos dias 11 a 18 de Setembro, embarquei nas missões:
   <ul>
