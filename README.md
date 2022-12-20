@@ -5,7 +5,7 @@
 <div align="center">
   <a
   target="_blank"
-  href= "https://lucas-vreal.github.io/nlw-esports-explorer/index.html">
+  href= "https://lucas-vreal.github.io/NLW-Explorer/index.html">
   <img src="./.github/preview.png" alt="preview do site" width=300px/>
   </a>
 
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-# <div align="center">[Clique aqui para acessar](https://lucas-vreal.github.io/nlw-esports-explorer/index.html)</div>
+# <div align="center">[Clique aqui para acessar](https://lucas-vreal.github.io/NLW-Explorer/index.html)</div>
   <br>
   <br>
 <p> Dos dias 11 a 18 de Setembro, embarquei nas missões:
